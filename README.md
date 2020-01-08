@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment_Analysis_IMDb
 LSTM and GRU based Approach to classify the sentiments of the IMDb movie reviews
 
 The project makes use of the Different approaches namely randomforest,LSTM or GRU to perform the sentimental analysis of the IMDb Dataset and hence analyse which Technique fits the most.
