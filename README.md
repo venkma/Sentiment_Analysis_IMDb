@@ -39,7 +39,8 @@ The model also uses the stored data in the corresponding csv file to predict the
   
 ## Author
 
-**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**
+**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**<br>
+**[GUNTUKU SAI RISHITHA ](https://www.linkedin.com/in/sai-rishitha-guntuku-441046194/)**
 
 ## Acknowledgments
 ### References
